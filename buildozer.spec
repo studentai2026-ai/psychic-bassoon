@@ -33,7 +33,7 @@ android.hide_titlebar = 0
 android.minapi = 21
 
 # إصدار Android المستهدف
-android.api = 33
+android.api = 30
 
 # منع الضغط
 android.accept_sdk_license = True
